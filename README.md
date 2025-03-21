@@ -1,2 +1,2 @@
 # MachineLearningProjects
-This repository have uploaded my Machine Learning Projects
+This repository I have uploaded my Machine learning and Deep learning Projects
